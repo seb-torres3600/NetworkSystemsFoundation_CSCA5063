@@ -1,3 +1,6 @@
+# Network System Foundations - CSCA 5063
+
+## Author: Sebastian Torres
 
 Welcome! Throughout this course, Network Systems Foundations, we delved into the fundamental layers of network communication. We started with a thorough discussion of the Link Layer and its crucial role, moving on to the intricacies of Internet Protocol (IP) and router data planes, and then navigate through the complexities of the transport layer, application layer, and network security. With a practical focus, I wrote Python code to manage routing tables, analyze network traffic, simulate router functionalities, and create digital certificates for web servers. By the end of this course, I will have a well-rounded understanding of networking principles, from data transmission and routing to application protocols and security, and will be equipped with practical skills to navigate the ever-evolving landscape of network technology.
 
